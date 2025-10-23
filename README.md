@@ -44,7 +44,7 @@ The turbine-less prototype is being tested for stable operation across RPM range
 ---
 
 ## Contributors
-- **L. G. Deepak**, Mechanical Engineering, IIT Ropar  
+- **L. G. Deepak, Ashish, Abjeeth, Kanniah**, Mechanical Engineering, IIT Ropar  
 - Under the guidance of **Dr. Rajendra Munian** and **Dr. Sreekanth Sekhar Padhee**
 
 ---
